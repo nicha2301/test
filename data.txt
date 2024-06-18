@@ -1,0 +1,1 @@
+228332|1718681247558|70881|query_id=AAFubmpuAAAAAG5uam6h0PFp&user=%7B%22id%22%3A1852468846%2C%22first_name%22%3A%22Trung%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718681204&hash=2ca7d55222d63e926dd9659a1ad7bf24bfa6bba8817028c0231afcf3b14c7314
